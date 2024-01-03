@@ -4,6 +4,8 @@ I'm MultiDulcetia and I'm currently studying Diploma in Information Technology
 
 My personal account is @Dulcetia
 
+I'll be using this account to upload school projects!
+
 <!--
 **MultiDulcetia/MultiDulcetia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
