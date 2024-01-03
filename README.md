@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm MultiDulcetia and I'm currently studying Diploma in Information Technology
+My personal account is @Dulcetia
 
 <!--
 **MultiDulcetia/MultiDulcetia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
