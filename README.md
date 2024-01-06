@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi! I'm MultiDulcetia 👋
 
-I'm MultiDulcetia
+About Me:
 
 🌱 I'm currently studying Diploma in Information Technology
 
