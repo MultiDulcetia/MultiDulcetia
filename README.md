@@ -1,4 +1,4 @@
-# Hi! I'm MultiDulcetia 👋
+# Hi! I'm Dulcetia 👋
 
 About Me:
 
@@ -18,8 +18,17 @@ About Me:
 
 ## School Projects
 
-✍️ Working on C++ Assignment, a Website using HTML + CSS + JavaScript (and a little Anime.js), and developing a Mobile Application
+✍️ I'm working on my Final Year Project! 
+
+Check it out at [mmutopia.com](https://mmutopia.com)!
 
 ## Hobby Projects
 
 ✍️ Currently, I'm working on making my own website.
+
+Check it out at [dicksonteow.com](https://dicksonteow.com)!
+
+## List of Websites I Manage / Operate:
+- My Personal Website: [dicksonteow.com](https://dicksonteow.com)
+- My Online Persona: [dulcetia.com](https://dulcetia.com/)
+- My Final Year Project @ MMU: [mmutopia.com](https://mmutopia.com)
